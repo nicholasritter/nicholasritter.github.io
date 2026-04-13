@@ -20,13 +20,11 @@
 
 title: Nicholas Ritter
 email: nicholas.ritter12@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am an economics research assistant and will start a PhD in fall 2022.
-  I graduated from Princeton in 2020 with high honors in economics.
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nicholasritter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+description: >-
+  Metascience fellow at IFP. Writing at bayesian goldfish.
+url: "https://nicholasritter.github.io"
+substack_url: "https://bayesiangoldfish.substack.com"
+github_username: nicholasritter
 
 # Build settings
 theme: minima
